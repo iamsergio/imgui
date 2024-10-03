@@ -1,0 +1,6 @@
+-std=c++11
+-I../..
+-I../../backends
+-I/usr/include/SDL2
+-D_REENTRANT
+
